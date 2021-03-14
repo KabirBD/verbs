@@ -1,0 +1,41 @@
+
+#mainView {
+  padding-top: 0px;
+  overflow-y: auto;
+}
+#title {
+  color: #2d8659;
+  font-weight: bold;
+}
+#input {
+  color: #2d8659;
+  width:100%;
+  border: 2px solid #2d8659;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 30px;
+}
+#output {
+  min-height:;
+}
+#search {
+  color: #2d8659;
+  border: 2px solid #2d8659;
+  width:40%;
+  padding: 1px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: white;
+  border-radius: 20px;
+  margin:2px auto;
+}
+.nav-space {
+  margin-top: 60px;
+}
+.box-shadow {
+  box-shadow: 0px 3px 10px;
+}
+.overflow {
+  width: 100vw;
+  overflow: auto;
+}
