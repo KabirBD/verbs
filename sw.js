@@ -13,6 +13,7 @@ const cacheName = 'v1';
 const cacheAssets = [
 
   '/verbs',
+  '/verbs/',
 
   '/verbs/index.html',
 
