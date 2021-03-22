@@ -151,7 +151,7 @@ function currentHistory() {
     <thead class="">
     <tr>
     <th>Base Form</th>
-    <th>3<sup>rd</sup> Persion Singular</th>
+    <th>3<sup>rd</sup> Person Singular</th>
     <th>Past Form</th>
     <th>Past Participle</th>
     <th>Present Participle</th>
